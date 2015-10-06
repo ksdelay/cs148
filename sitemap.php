@@ -13,7 +13,7 @@
     <body>
     <li><a href="assignment1.0/index.php"> Assignment 1</a></li>
     <li><a href="assignment2.0/index.php">Assignment 2</a></li>
-    <li><a href="assignmen3.0/index.php"> Assignment 3</a></li>    
+    <li><a href="assignment3.0/index.php"> Assignment 3</a></li>    
 
 
     </body>
