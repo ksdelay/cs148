@@ -5,7 +5,7 @@ require_once('lib/custom-functions.php');
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>TEsting Course tables</title>
+        <title>FreeMountainReviews</title>
         <meta charset="utf-8">
         <meta name="author" content="Kevin Delay">
         <meta name="description" content="Learning">

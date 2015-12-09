@@ -25,6 +25,11 @@
         } else {
             print '<li><a href="mountainReview.php">Review a mountain</a></li>';
         }
+        if ($path_parts['filename'] == "viewMountainReviews") {
+            print '<li class="activePage">View mountain REviews</li>';
+        } else {
+            print '<li><a href="viewMountainReviews.php">View Mountain Reviews</a></li>';
+        }
         
        
         ?>

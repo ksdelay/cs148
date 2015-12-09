@@ -87,7 +87,9 @@ if (isset($_POST["btnSubmit"])) {
 //End if form is valid
 //End button submit
 ?>
-
+<p>Please make sure to register if you haven't already</p>
+<p><a href="addUser.php">Click here to register</a></p>
+<h2>Recenetly visited a mountain why not tell us what you think?</h2>
 <form action= "<?php print $phpSelf; ?>"
       method ="post"
       id="frmMountainReview">
